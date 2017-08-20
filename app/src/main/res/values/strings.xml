@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="title_activity_catatog">CatatogActivity</string>
+    <string name="add_item">Add a Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="error_update">Error updating Item </string>
+    <string name="success_update">Item updated successfully</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_pet_failed">Delete failed</string>
+    <string name="editor_delete_pet_successful">Item deleted successfully</string>
+    <string name="delete_dialog_msg">Delete this Item?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current pet [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current pet [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+</resources>
